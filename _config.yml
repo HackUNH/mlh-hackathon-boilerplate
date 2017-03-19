@@ -20,20 +20,20 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: ""
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "HackNH | October 2017"
+  description: "Announcing University of New Hampshire's first MLH hackathon."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "HackNH"
+  description: "HackNH official website, in conjuction with Major League Hacking and University of New Hampshire."
+  date:        "Pending... Approx. late October 2017"
+  location:    "Durham, NH, United States"
 
   trust_badge:
     year:   "2017"  # season year
@@ -47,11 +47,11 @@ event:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
           redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:hacksUNH@gmail.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      HackNH is a hackathon hosted at The University of New Hampshire.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
@@ -83,10 +83,10 @@ event:
     - question: "Do I need to be a student to attend?"
       answer: >
         Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        have graduated within the past 12 months are eligible to attend. You'll need your student ID. 
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at [ pending... ].
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
@@ -98,7 +98,7 @@ event:
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
+      You'll receive more information closer to the hackathon. 
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
