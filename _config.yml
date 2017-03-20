@@ -32,8 +32,8 @@ seo:
 # Event information.
 event:
   name:        "HackNH"
-  description: "HackNH official website, in conjuction with Major League Hacking and University of New Hampshire."
-  date:        "Pending... Approx. late October 2017"
+  description: "Major League Hacking + University of New Hampshire."
+  date:        "Late October 2017"
   location:    "Durham, NH, United States"
 
   trust_badge:
