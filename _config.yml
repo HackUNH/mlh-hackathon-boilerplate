@@ -52,9 +52,8 @@ event:
 
   about:
     description: >
-      HackNH is a hackathon hosted at The University of New Hampshire.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      HackNH is a 24 hour hackathon, where students of any skill level and background from the northeast gather to create something great. 
+      This is a one of a kind experience, with free food, mentors, social mixers, and yoga! 
 
   # Info Sections
   info:
@@ -62,15 +61,15 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          This is the place to pickup a new skill, brainstorm ideas and create!
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Form a team and grow your ideas together.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Share your code on Github and stand a chance to win prizes when submitted on Devpost.
 
   # Frequently asked questions.
   faq:
